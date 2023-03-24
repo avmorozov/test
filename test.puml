@@ -1,5 +1,6 @@
 @startuml
 
+` Ерунда какая-то
 class MegaClass
 
 @enduml
