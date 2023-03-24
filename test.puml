@@ -1,5 +1,7 @@
 @startuml
 
-class MegaClass
+class MegaClass {
+    MegaAttribute
+}
 
 @enduml
