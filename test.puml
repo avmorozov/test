@@ -4,4 +4,6 @@ class MegaClass {
     MegaAttribute
 }
 
+
+
 @enduml
